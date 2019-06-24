@@ -1,0 +1,4 @@
+--주석
+--SQL : DBMS에게 명령어를 보낼 때 사용하는 언어 
+--Structure Query Language
+--DBMS에게 보내는 명령어를 Query라고 한다
