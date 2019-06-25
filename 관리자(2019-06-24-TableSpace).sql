@@ -20,4 +20,4 @@ GRANT DBA TO user3;
 --기존에 생성한 user2를 sys공간에서 user3ts공간으로 변경시킨다.
 --가급적 데이터를 추가 하지 않은 상태에서 수행하는 것이 좋다.
 --ALTER 키워드는 기존에 생성된 물리적 요소를 변경하는 명령
-ALTER USER user2 DEFAULT TABLESPACE user3TS;
+
